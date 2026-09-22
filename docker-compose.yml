@@ -1,0 +1,10 @@
+services:
+  web:
+    build: .
+    container_name: pastikan-smkn65
+    restart: unless-stopped
+    working_dir: /var/www/html
+    ports:
+      - "8087:80"
+    volumes:
+      - ./:/var/www/html

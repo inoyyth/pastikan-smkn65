@@ -143,7 +143,7 @@ if (($_GET['ajax'] ?? '') === 'chart') {
     
     <nav class="top-nav">
       <a class="nav-brand" onclick="scrollToTop()">
-        <img src="Logo 65.png" alt="Logo 65">
+        <img src="https://res.cloudinary.com/dvz66ax7j/image/upload/v1739619202/logo_smkn65_d9cb879d23.jpg" alt="Logo SMKN 65 Jakarta">
         <div class="brand-text">
           <h2>SMKN 65 JAKARTA</h2>
           <p>PASTIKAN - Pengelolaan Aktif Sampah Terintegrasi SPANCA</p>
@@ -518,7 +518,7 @@ Setiap langkah kecil kalian hari ini dapat membawa dampak besar bagi kebersihan 
   <div class="footer-grid">
     <div class="footer-col">
       <div class="footer-brand">
-        <img src="Logo 65.png" alt="Logo SMKN 65 Jakarta" class="footer-logo" onerror="this.style.display='none'">
+        <img src="https://res.cloudinary.com/dvz66ax7j/image/upload/v1739619202/logo_smkn65_d9cb879d23.jpg" alt="Logo SMKN 65 Jakarta" class="footer-logo" onerror="this.style.display='none'">
         <div>
           <h3>SMKN 65 JAKARTA</h3>
           <p class="brand-tag">PASTIKAN SPANCA</p>
